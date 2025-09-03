@@ -1,0 +1,37 @@
+Got it 👍 You’re asking for a Java portfolio.
+Since Java is not typically used for building static portfolios like HTML/CSS/JS, I’ll show you two approaches depending on what you want:
+
+
+---
+
+Option 1: Console-based Portfolio (Beginner-Friendly)
+
+A simple Java program that prints your portfolio details.
+
+public class Portfolio {
+    public static void main(String[] args) {
+        System.out.println("=====================================");
+        System.out.println("          My Portfolio (Java)        ");
+        System.out.println("=====================================");
+
+        // About
+        System.out.println("\nAbout Me:");
+        System.out.println("Hello! I'm Your Name, a passionate Java developer who loves coding, problem-solving, and creating applications.");
+
+        // Skills
+        System.out.println("\nSkills:");
+        System.out.println("- Java, OOP, Data Structures");
+        System.out.println("- HTML, CSS, JavaScript");
+        System.out.println("- MySQL, Git, Spring Boot");
+
+        // Projects
+        System.out.println("\nProjects:");
+        System.out.println("1. Portfolio Website - A personal site using HTML, CSS, JS.");
+        System.out.println("2. Student Management System - Java + MySQL CRUD application.");
+        System.out.println("3. Weather App - Fetches live weather data using API.");
+
+        // Contact
+        System.out.println("\nContact:");
+        System.out.println("Email: yourname@email.com");
+        System.out.println("GitHub: github.com/yourusername");
+        System.out.println("LinkedIn:
